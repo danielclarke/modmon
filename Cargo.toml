@@ -3,6 +3,15 @@ name = "modmon"
 version = "0.1.0"
 edition = "2021"
 
+description = "A moderation monitor for Roblox assets"
+homepage = "https://github.com/danielclarke/modmon"
+repository = "https://github.com/danielclarke/modmon"
+readme = "README.md"
+license = "MIT"
+
+keywords = ["gamedev", "roblox"]
+categories = ["command-line-utilities"]
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
